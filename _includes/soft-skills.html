@@ -1,16 +1,26 @@
-{% assign softskills = site.data.data.soft-skills %}
-{% if softskills %}
-<div class="interests-container container-block">
+{% assign skills = site.data.data.soft-skills %}
+{% if skills %}
+<section class="skills-section section">
 
-  <h2 class="container-block-title">
-    {{ softskills.title }}
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ skills.title }}
   </h2>
 
-  <ul class="list-unstyled interests-list">
-    {% for softskill in softskills.info %}
-      <li>{{ softskill.item }}</li>
-    {% endfor %}
-  </ul>
+  <div class="skillset">
 
-</div><!--//softskills-->
+    {% for skill in skills.info %}
+    <div class="item">
+
+      <h3 class="level-title">{{ skill.item }}</h3>
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </div>
+
+</section><!--//skills-section-->
 {% endif %}
