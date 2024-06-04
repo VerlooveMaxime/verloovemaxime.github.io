@@ -101,7 +101,7 @@ experiences:
           Continued my role as a developer, carrying out the same tasks while additionaly taking on:
                 -Leading the company in day-to-day operations, decision-making, and employee management.
                 -Overseeing administrative functions and strategic planning.
-      - role: DeveloperTest
+      - role: Developer
         time: January 2020 - April 2021
         company: Generation Shop, Oudenaarde
         details: |
@@ -142,7 +142,7 @@ skills:
       - name: VueJS
         level: 70%
 
-      - name: Soft skils: |
+      - name: Soft skils:
         Leadership and team management.
         Strategic decision-making.
         Project management.
