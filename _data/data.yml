@@ -165,21 +165,17 @@ skills:
       - name: VueJS
         level: 70%
 
-skills:
+interests:
     title: Soft skills
 
-    toolset:
-      - name: Leadership and team management
-        level:
+    info:
+      - item: Leadership and team management
 
-      - name: Strategic decision-making
-        level:
+      - item: Strategic decision-making
 
-      - name: Project management
-        level:
+      - item: Project management
 
-      - name: Effective communication
-        level:
+      - item: Effective communication
 
 footer: >
     Last update: 2024/06/04
