@@ -112,19 +112,33 @@ experiences:
             -Managing database operations, server operations, and DevOps tasks.
 
             -Integrating complex systems, such as bookkeeping systems and dropshipping solutions.
-      - role: Significant Projects
-        details: |
-            -SSO Integration for RSC Anderlecht webshop: Developed a single sign-on integration to streamline user access.
 
-            -Integration with Exact Online and Yuki: Created a configurable and extendable solution for seamless bookkeeping integration.
+projects:
+    title: Significant Projects
+    assignments:
+      - link: https://shop.rsca.be
+        title: SSO Integration for RSC Anderlecht webshop
+        tagline: Developed a single sign-on integration to streamline user access.
 
-            -Kornit integration: Integrated a dropshipping solution for personalized items.
+      - link: https://store.shopware.com/en/gshop38296416972m/exact-online.html
+        title: Integration with Exact Online and Yuki
+        tagline: Created a configurable and extendable solution for seamless bookkeeping integration.
 
-            -Kiyoh integration: Connected the e-commerce platform with a review system.
+      - link: https://store.shopware.com/en/gshop98414945254m/custom-gateway-kornit-digital-integration-start-dropshipping-personalised-items.html
+        title: Kornit integration
+        tagline: Integrated a dropshipping solution for personalized items.
 
-            -Order Export/Number calculation solution: Developed a tool for clients to gain better insights into their sales and performance.
+      - link: https://store.shopware.com/en/gshop63320967548f/kiyoh/klantenvertellen-automatic-review-invites.html
+        title: Kiyoh integration
+        tagline: Connected the e-commerce platform with a review system.
 
-            -Daily Totals generation for bookkeeping: Automated the generation of daily totals for accounting purposes.
+      - link: https://store.shopware.com/en/gshop95818390219m/order-export-advanced-financial-data-per-item.html
+        title: Order data insight solution
+        tagline: Developed a tool for clients to gain better insights into their sales and performance.
+
+      - link: https://store.shopware.com/en/gshop32271829875m/b2c-daily-totals-save-on-accountancy-time.html
+        title: Daily Totals generation for bookkeeping
+        tagline: Automated the generation of daily totals for accounting purposes.
 
 skills:
     title: Proficiency
