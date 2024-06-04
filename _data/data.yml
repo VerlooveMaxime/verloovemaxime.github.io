@@ -127,7 +127,7 @@ experiences:
             -Daily Totals generation for bookkeeping: Automated the generation of daily totals for accounting purposes.
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Proficiency
 
     toolset:
       - name: PHP
@@ -151,17 +151,21 @@ skills:
       - name: VueJS
         level: 70%
 
-      - name: |
-            Soft skils:
+skills:
+    title: Soft skills
 
-            -Leadership and team management.
+    toolset:
+      - name: Leadership and team management
+        level:
 
-            -Strategic decision-making.
+      - name: Strategic decision-making
+        level:
 
-            -Project management.
+      - name: Project management
+        level:
 
-            -Effective communication.
-        level: 0%
+      - name: Effective communication
+        level:
 
 footer: >
     Last update: 2024/06/04
