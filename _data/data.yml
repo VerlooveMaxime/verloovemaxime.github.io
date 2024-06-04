@@ -99,23 +99,23 @@ experiences:
         company: Generation Shop, Oudenaarde
         details: |
           Continued my role as a developer, carrying out the same tasks while additionaly taking on:
-            -Leading the company in day-to-day operations, decision-making, and employee management.
-            -Overseeing administrative functions and strategic planning.
+                -Leading the company in day-to-day operations, decision-making, and employee management.
+                -Overseeing administrative functions and strategic planning.
       - role: Developer
         time: January 2020 - April 2021
         company: Generation Shop, Oudenaarde
         details: |
-            -Developing and maintaining e-commerce websites, enhancing functionality for both end-users and clients.
-            -Managing database operations, server operations, and DevOps tasks.
-            -Integrating complex systems, such as bookkeeping systems and dropshipping solutions.
+                -Developing and maintaining e-commerce websites, enhancing functionality for both end-users and clients.
+                -Managing database operations, server operations, and DevOps tasks.
+                -Integrating complex systems, such as bookkeeping systems and dropshipping solutions.
       - role: Significant Projects
         details: |
-            -SSO Integration for RSC Anderlecht Webshop: Developed a single sign-on integration to streamline user access.
-            -Integration with Exact Online and Yuki: Created a configurable and extendable solution for seamless bookkeeping integration.
-            -Kornit Integration: Integrated a dropshipping solution for personalized items.
-            -Kiyoh Integration: Connected the e-commerce platform with a review system.
-            -Order Export/Number Calculation Solution: Developed a tool for clients to gain better insights into their sales and performance.
-            -Daily Totals Generation for Bookkeeping: Automated the generation of daily totals for accounting purposes.
+                -SSO Integration for RSC Anderlecht Webshop: Developed a single sign-on integration to streamline user access.
+                -Integration with Exact Online and Yuki: Created a configurable and extendable solution for seamless bookkeeping integration.
+                -Kornit Integration: Integrated a dropshipping solution for personalized items.
+                -Kiyoh Integration: Connected the e-commerce platform with a review system.
+                -Order Export/Number Calculation Solution: Developed a tool for clients to gain better insights into their sales and performance.
+                -Daily Totals Generation for Bookkeeping: Automated the generation of daily totals for accounting purposes.
 
 skills:
     title: Skills &amp; Proficiency
