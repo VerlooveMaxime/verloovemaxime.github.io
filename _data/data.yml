@@ -56,73 +56,66 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: 
+    summary: As an experienced PHP/Symfony developer with a strong background in managing and extending e-commerce platforms, my primary goal is to achieve full independence as a freelance developer. I aim to leverage my technical and managerial skills to deliver exceptional solutions for my clients.
       
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: Business management
+        university: Artevelde
+        time: 2016 - 2019
+        details: |
+
+      - degree: Applied IT
+        university: Hogent
+        time: 2013 - 2016
+        details: |
+
+      - degree: French - German
+        university: Ghent University
+        time: 2012 - 2013
+        details: |
+
+      - degree: Economics
+        university: Ghent University
         time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+
+      - degree: Math - Modern Languages
+        university: Sint-Lievenscollege Ghent
+        time: 2010 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Freelance Developer
+        time: April 2024 - Present
+        company: Generation Shop, Oudenaarde
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Currently facilitating a smooth transition for my replacement while working on freelance projects.
+      - role: Managing Partner
+        time: April 2021 - April 2024
+        company: Generation Shop, Oudenaarde
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Continued my role as a developer, carrying out the same tasks while additionaly taking on:
+          -Leading the company in day-to-day operations, decision-making, and employee management.
+          -Overseeing administrative functions and strategic planning.
+      - role: Developer
+        time: January 2020 - April 2021
+        company: Generation Shop, Oudenaarde
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          -Developing and maintaining e-commerce websites, enhancing functionality for both end-users and clients.
+          -Managing database operations, server operations, and DevOps tasks.
+          -Integrating complex systems, such as bookkeeping systems and dropshipping solutions.
+      - role: Significant Projects
+        details: |
+          -SSO Integration for RSC Anderlecht Webshop: Developed a single sign-on integration to streamline user access.
+          -Integration with Exact Online and Yuki: Created a configurable and extendable solution for seamless bookkeeping integration.
+          -Kornit Integration: Integrated a dropshipping solution for personalized items.
+          -Kiyoh Integration: Connected the e-commerce platform with a review system.
+          -Order Export/Number Calculation Solution: Developed a tool for clients to gain better insights into their sales and performance.
+          -Daily Totals Generation for Bookkeeping: Automated the generation of daily totals for accounting purposes.
 
 skills:
     title: Skills &amp; Proficiency
@@ -150,4 +143,4 @@ skills:
         level: 70%
 
 footer: >
-    Last update: 2023/08/02
+    Last update: 2024/06/04
