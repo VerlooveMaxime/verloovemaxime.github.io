@@ -142,11 +142,12 @@ skills:
       - name: VueJS
         level: 70%
 
-      - name: Soft skils:
-        Leadership and team management.
-        Strategic decision-making.
-        Project management.
-        Effective communication.
+      - name: Soft skils: >
+        Leadership and team management. >
+        Strategic decision-making. >
+        Project management. >
+        Effective communication. >
+        level: 0%
 
 footer: >
     Last update: 2024/06/04
