@@ -101,7 +101,7 @@ projects:
     title: Significant Projects
     assignments:
       - title: Monolithic
-        tagline: Building a platform to gain insight into the different psychological profiles of employees. Phase 1 has been completed and the platform is currently being used in-house. Additional phases include: a frontend portal for employees, licensing for partners, etc.
+        tagline: Building a platform to gain insight into the different psychological profiles of employees. Phase 1 has been completed and the platform is currently being used in-house. A frontend portal for employees, licensing for partners, ... are included in the upcoming phases.
 
       - link: https://shop.rsca.be
         title: SSO Integration for RSC Anderlecht webshop
