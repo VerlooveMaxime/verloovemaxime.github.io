@@ -55,7 +55,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: As an experienced PHP/Symfony developer with a strong background in managing and extending e-commerce platforms, my primary goal is to achieve full independence as a freelance developer. I aim to leverage my technical and managerial skills to deliver exceptional solutions for my clients.
+    summary: An experienced PHP/Symfony developer with a strong background in managing and extending e-commerce platforms. I aim to leverage my technical and managerial skills to deliver exceptional solutions for my clients.
       
 education:
     title: Education
@@ -70,29 +70,14 @@ education:
         time: 2013 - 2016
         details: |
 
-      - degree: French - German
-        university: Ghent University
-        time: 2012 - 2013
-        details: |
-
-      - degree: Economics
-        university: Ghent University
-        time: 2011 - 2012
-        details: |
-
-      - degree: Math - Modern Languages
-        university: Sint-Lievenscollege Ghent
-        time: 2010 - 2011
-        details: |
-
 experiences:
     title: Experiences
     info:
       - role: Freelance Developer
         time: April 2024 - Present
-        company: Generation Shop, Oudenaarde
+        company: Maxime Verloove, Gent
         details: |
-          Currently facilitating a smooth transition for my replacement while working on freelance projects.
+          Currently working on some freelance and in-house projects.
       - role: Managing Partner
         time: April 2021 - April 2024
         company: Generation Shop, Oudenaarde
@@ -115,6 +100,10 @@ experiences:
 projects:
     title: Significant Projects
     assignments:
+      - link: #
+        title: Monolithic
+        tagline: Building a platform to gain insight into the different psychological profiles of employees. Phase 1 has been completed and the platform is currently being used in-house. Additional phases include: a frontend portal for employees, licensing for partners, ...
+
       - link: https://shop.rsca.be
         title: SSO Integration for RSC Anderlecht webshop
         tagline: Developed a single sign-on integration to streamline user access.
@@ -153,25 +142,31 @@ skills:
 
     toolset:
       - name: PHP
-        level: 98%
-
-      - name: Shopware 6
-        level: 96%
+        level: 95%
 
       - name: Symfony
         level: 95%
 
-      - name: MySQL
+      - name: RabbitMQ
+        level: 90%
+
+      - name: Doctrine
+        level: 90%
+
+      - name: SQL
+        level: 90%
+
+      - name: Docker
+        level: 90%
+
+      - name: Bitbucket CI/CD & Jenkins
         level: 90%
 
       - name: Git
         level: 85%
 
-      - name: Javascript ES6
-        level: 85%
-
-      - name: VueJS
-        level: 70%
+      - name: ElasticSearch
+        level: 75%
 
 soft-skills:
     title: Soft skills
@@ -186,4 +181,4 @@ soft-skills:
       - item: Effective communication
 
 footer: >
-    Last update: 2024/06/04
+    Last update: 2024/09/11
