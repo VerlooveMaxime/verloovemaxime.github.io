@@ -18,7 +18,7 @@ sidebar:
     timezone: Europe/Brussels Timezone
     citizenship:
     website: verloove.org #do not add http://
-    linkedin:
+    linkedin: maximeverloove
     xing:
     github: verloovemaxime
     telegram: # add your nickname without '@' sign
@@ -180,4 +180,4 @@ soft-skills:
       - item: Effective communication
 
 footer: >
-    Last update: 2024/09/11
+    Last update: 2024/10/18
