@@ -73,11 +73,16 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Senior Backend Developer
+        time: January 2025 - Present
+        company: make it fly, part of Dynamate
+        details: |
+          Leading development and maintenance of backend systems with a strong focus on Symfony. Following a company merger, actively contributing to Laravel-based projects. Can quickly adapt thanks to deep experience with Symfony’s architecture and best practices.
       - role: Freelance Developer
         time: April 2024 - Present
         company: Maxime Verloove, Gent
         details: |
-          Currently working on some freelance and in-house projects.
+          Currently evaluating and prototyping a modernized backend stack based on API Platform, Redis, RabbitMQ, PostgreSQL, Mercure, and FrankenPHP, paired with a potential React-based frontend and API Platform Admin for internal tools.
       - role: Managing Partner
         time: April 2021 - April 2024
         company: Generation Shop, Oudenaarde
@@ -100,6 +105,25 @@ experiences:
 projects:
     title: Significant Projects
     assignments:
+      - link: https://www.pointcarre.be
+        title: The Fashion Society (Zeb, PointCarré)
+        tagline: Developed a bespoke Laravel backend supporting multiple Shopify stores. Implemented a custom refund and return flow integrated with Shopify and Mollie to meet complex business rules. Built a full order migration pipeline from legacy Magento to Shopify. Created custom Shopify Functions in Rust to handle advanced discount and voucher logic. Also setup custom Docker containers/images for the Rust development toolchain.
+
+      - link: https://www.cru.be/
+        title: Cru
+        tagline: Integrated Algolia search in the existing Laravel shop using Laravel Scout with custom logic to unify multiple entity types under a single index and support multilingual content.
+
+      - link: https://webshop.trafiroad.be/
+        title: Trafiroad
+        tagline: Built a custom PunchOut integration in the existing Laravel shop to enable seamless B2B procurement system communication.
+
+      - link: https://www.mbus.be
+        title: Max Mobiel
+        tagline: Led the upgrade from Symfony 4 to Symfony 7, alongside ongoing implementation of new features within the existing application.
+
+      - title: Topwijnen, Zoutman, Genscom
+        tagline: Maintained and extended legacy Symfony applications by fixing bugs, optimizing performance, and implementing new features.
+
       - title: Monolithic
         tagline: Building a platform to gain insight into the different psychological profiles of employees. Phase 1 has been completed and the platform is currently being used in-house. A frontend portal for employees, licensing for partners, ... are included in the upcoming phases.
 
@@ -149,6 +173,9 @@ skills:
       - name: RabbitMQ
         level: 90%
 
+      - name: Redis
+        level: 90%
+
       - name: Doctrine
         level: 90%
 
@@ -158,14 +185,41 @@ skills:
       - name: Docker
         level: 90%
 
-      - name: Bitbucket CI/CD & Jenkins
+      - name: Ddev
         level: 90%
+
+      - name: Gitlab/Bitbucket/Jenkins
+        level: 90%
+
+      - name: Shopware 6
+        level: 85%
 
       - name: Git
         level: 85%
 
+      - name: PHP-FPM + Nginx
+        level: 85%
+
+      - name: FrankenPHP + Caddy
+        level: 85%
+
       - name: ElasticSearch
         level: 75%
+
+      - name: Laravel
+        level: 75%
+
+      - name: Shopify
+        level: 75%
+
+      - name: C++
+        level: 75%
+
+      - name: Mercure
+        level: 60%
+
+      - name: Rust
+        level: 60%
 
 soft-skills:
     title: Soft skills
@@ -180,4 +234,4 @@ soft-skills:
       - item: Effective communication
 
 footer: >
-    Last update: 2024/10/18
+    Last update: 2025/05/02
