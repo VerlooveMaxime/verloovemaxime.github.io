@@ -74,7 +74,12 @@ experiences:
     title: Experiences
     info:
       - role: Senior Backend Developer
-        time: January 2025 - Present
+        time: April 2026 - Present
+        company: X2O Badkamers, Gent
+        details: |
+            Maintaining and extending a Symfony-based microservices backend running on Kubernetes, while contributing to a new Symfony backend built on Kubernetes with FrankenPHP, Caddy, and a custom DBAL layer.
+      - role: Senior Backend Developer
+        time: January 2025 - April 2026
         company: make it fly, part of Dynamate, Brugge
         details: |
           Leading development and maintenance of backend systems with a strong focus on Symfony. Following a company merger, actively contributing to Laravel-based projects. Can quickly adapt thanks to deep experience with Symfony’s architecture and best practices.
